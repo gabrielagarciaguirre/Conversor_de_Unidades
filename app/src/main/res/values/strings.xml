@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Conversor_de_unidades</string>
+
+    <string-array name="monedas">
+        <item>Dolar</item>
+        <item>Quetzal</item>
+        <item>Colon SV</item>
+        <item>Lempira</item>
+        <item>Cordoba</item>
+        <item>Libras</item>
+        <item>Peso CR</item>
+        <item>Euro</item>
+        <item>Yenes</item>
+        <item>Rupias</item>
+    </string-array>
+
+    <string-array name="volumen">
+        <item>Mililitro</item>
+        <item>Decilitro</item>
+        <item>Litro</item>
+        <item>Milimetro cubico</item>
+        <item>Centilitro</item>
+        <item>Decimetro cubico</item>
+        <item>Metro cubico</item>
+        <item>Pies cubico</item>
+        <item>Pulgada cubica</item>
+        <item>Yarda cubica</item>
+    </string-array>
+
+    <string-array name="Longitud">
+        <item>Centimetro</item>
+        <item>Decimetro</item>
+        <item>Metro</item>
+        <item>Kilometro</item>
+        <item>Milimetro</item>
+        <item>Micrometro</item>
+        <item>Nanometro</item>
+        <item>Picometro</item>
+        <item>Milla Nautica</item>
+        <item>Milla</item>
+    </string-array>
+
+    <string-array name="Tiempo">
+        <item>Pico segundo</item>
+        <item>Nanosegundo</item>
+        <item>Microsegundo</item>
+        <item>Milisegundo</item>
+        <item>Segundos</item>
+        <item>Minutos</item>
+        <item>Horas</item>
+        <item>Semanas</item>
+        <item>Mes</item>
+        <item>Años</item>
+
+    </string-array>
+
+</resources>
+
+
