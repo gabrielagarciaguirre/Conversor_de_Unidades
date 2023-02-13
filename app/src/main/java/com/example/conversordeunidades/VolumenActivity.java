@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatActivity;
         import android.widget.Spinner;
         import android.widget.TextView;
 
-public class Volumen extends AppCompatActivity {
+public class VolumenActivity extends AppCompatActivity {
     Button btnd;
     TextView temps;
     Spinner spna;

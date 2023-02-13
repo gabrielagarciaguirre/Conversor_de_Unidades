@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         btmvolu.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(getApplicationContext(),Volumen.class));
+                startActivity(new Intent(getApplicationContext(),VolumenActivity.class));
             }
         });
 
