@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         btmmon.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(getApplicationContext(),moneda.class));
+                startActivity(new Intent(getApplicationContext(),MonedaActivity.class));
 
             }
         });
@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         btmvolu.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(getApplicationContext(),volumen.class));
+                startActivity(new Intent(getApplicationContext(),Volumen.class));
             }
         });
 
@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
         btmtiempo.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(getApplicationContext(),tiempo.class));
+                startActivity(new Intent(getApplicationContext(),TiempoActivity.class));
             }
         });
 
