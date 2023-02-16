@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(getApplicationContext(),longitud.class));
             }
         });
-        btmmasa= findViewById(R.id.btmmasa);
+
         btmmasa.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

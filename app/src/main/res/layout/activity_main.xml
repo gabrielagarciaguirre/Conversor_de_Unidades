@@ -15,8 +15,8 @@
         android:layout_alignParentRight="true"
         android:layout_marginLeft="100dp"
         android:layout_marginTop="80dp"
-        android:layout_marginEnd="36dp"
-        android:layout_marginRight="36dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginRight="24dp"
         android:text="Conversores de unidades"
         android:textColor="@color/black"
         android:textSize="24sp"></TextView>
@@ -28,26 +28,14 @@
         android:layout_below="@id/menuu"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_marginTop="146dp"
-        android:layout_marginEnd="258dp"
-        android:layout_marginRight="239dp"
+        android:layout_marginTop="145dp"
+        android:layout_marginEnd="219dp"
+        android:layout_marginRight="219dp"
         android:background="@drawable/botones"
         android:text="Monedas"
         android:textColor="#FDFBFB" />
 
-    <Button
-        android:id="@+id/btmmasa"
-        android:layout_width="129dp"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/menuu"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginTop="234dp"
-        android:layout_marginEnd="260dp"
-        android:layout_marginRight="260dp"
-        android:background="@drawable/botones"
-        android:text="Masa"
-        android:textColor="#FDFBFB" />
+
 
     <Button
         android:id="@+id/btmlongi"
@@ -56,9 +44,9 @@
         android:layout_below="@id/menuu"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_marginTop="327dp"
-        android:layout_marginEnd="258dp"
-        android:layout_marginRight="258dp"
+        android:layout_marginTop="321dp"
+        android:layout_marginEnd="224dp"
+        android:layout_marginRight="224dp"
         android:background="@drawable/botones"
         android:text="Longitud"
         android:textColor="#FDFBFB"></Button>
@@ -70,9 +58,9 @@
         android:layout_below="@id/menuu"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_marginTop="142dp"
-        android:layout_marginEnd="93dp"
-        android:layout_marginRight="93dp"
+        android:layout_marginTop="144dp"
+        android:layout_marginEnd="58dp"
+        android:layout_marginRight="58dp"
         android:background="@drawable/botones"
         android:text="Volumen"
         android:textColor="#FDFBFB"></Button>
@@ -85,8 +73,8 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:layout_marginTop="231dp"
-        android:layout_marginEnd="92dp"
-        android:layout_marginRight="92dp"
+        android:layout_marginEnd="55dp"
+        android:layout_marginRight="55dp"
         android:background="@drawable/botones"
         android:text="Tiempo"
         android:textColor="#FDFBFB"></Button>
