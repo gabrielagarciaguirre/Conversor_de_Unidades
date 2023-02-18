@@ -17,16 +17,16 @@
 
     <TextView
         android:id="@+id/lbla"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="50dp"
+        android:layout_height="49dp"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="100dp"
         android:text="A:" />
 
     <EditText
         android:id="@+id/txtcantidad"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_width="258dp"
+        android:layout_height="56dp"
         android:layout_marginLeft="10dp"
         android:layout_marginTop="160dp"
         android:layout_marginRight="10dp"
@@ -36,17 +36,17 @@
 
     <Spinner
         android:id="@+id/spndu"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="60dp"
-        android:layout_marginTop="40dp"
+        android:layout_width="303dp"
+        android:layout_height="53dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="30dp"
         android:entries="@array/Longitud" />
 
     <Spinner
         android:id="@+id/spnq"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="60dp"
+        android:layout_width="311dp"
+        android:layout_height="62dp"
+        android:layout_marginLeft="100dp"
         android:layout_marginTop="100dp"
         android:entries="@array/Longitud" />
 
